@@ -1,3 +1,5 @@
+# EduPersona
+
 # Personal Learning Assistant
 
 Welcome to the **Personal Learning Assistant** project! This project, created for a national-level hackathon, aims to provide users with an AI-powered tool to assist with personalized learning experiences. The app features PDF content extraction, quiz generation, theory Q&A, PDF summarization, and interactive chat with PDF content.
@@ -119,5 +121,3 @@ personal-learning-assistant/
 
 Feel free to contribute to this project by submitting issues or pull requests. 
 
-# EduPersona
-# EduPersona
